@@ -1,132 +1,128 @@
 # Privacy Policy
 
-This privacy policy applies to the **One Player: Music & Video Plus** app for mobile devices, together with any related services operated by Googol Apps (collectively, the "Application"). Googol Apps is hereby referred to as the "Service Provider".
+This privacy policy applies to the **One Player Plus** app for mobile devices, together with any related services operated by **Googol Apps** (collectively, the "Application"). Googol Apps is hereby referred to as the "Service Provider".
 
 ---
 
 ## Information Collection and Use
 
-The Application may collect information when you download and use it, including:
+The Application or or its third-party SDKs may collects information when you download and use it. This information may include:
 
 - Your device's Internet Protocol (IP) address  
-- Pages of the Application you visit, time and date of visit, and time spent  
-- Time spent on the Application overall  
+- The pages of the Application that you visit, the time and date of your visit, and the time spent on those pages  
+- The time spent on the Application  
 - Your mobile operating system  
 
 ---
 
 ## Cookies and Tracking Technologies
 
-- The Application or its third-party SDKs may use cookies, SDKs, pixels, and similar technologies for functionality, analytics, or service delivery.  
-- Where required by law, the Service Provider will obtain consent before using non-essential tracking technologies.
+The Application or its third-party SDKs may use cookies, SDKs, pixels, and similar technologies to support functionality, analytics, or service delivery. Where required by applicable law, the Service Provider will obtain consent before using non-essential tracking technologies.
 
 ---
 
 ## Your Rights
 
-You may request:
-
-- Access to your personal data  
-- Correction of your personal data  
-- Deletion of your personal data  
-
-To exercise these rights, or to withdraw consent, contact: **googolapps.support@gmail.com**
+**Googol Apps** does not retain personally identifiable information.  
+Any data collected by third-party services (e.g., Firebase) is managed according to their own retention policies. Please review their privacy policies for details.
 
 ---
 
-## California Privacy Rights (CCPA/CPRA)
+## Your California Privacy Rights (CCPA/CPRA)
 
 If you are a California resident, you have the right to:
 
 - Know what personal information is collected  
 - Delete personal information  
-- Opt out of sale or sharing of personal information  
+- Opt out of the sale or sharing of personal information  
 - Non-discrimination for exercising these rights  
 
-Contact: **googolapps.support@gmail.com**
+To exercise your CCPA/CPRA rights, contact: **googolapps.support@gmail.com**
 
 ---
 
 ## Third Party Access
 
-- Only aggregated, anonymized data is periodically transmitted to external services.  
-- The Service Provider may share information with trusted third parties as described in this policy.  
-
-**Third-party services used:**
-
-- [Google Play Services](https://www.google.com/policies/privacy/)  
-- [Google Analytics for Firebase](https://firebase.google.com/support/privacy)  
-- [Firebase Crashlytics](https://firebase.google.com/support/privacy)  
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application. The Service Provider may share your information with third parties as described in this privacy statement.
 
 ---
 
 ## International Data Transfers
 
-Personal data may be transferred outside your country of residence, including outside the EEA. Safeguards include:
+Personal data may be transferred outside your country of residence, including outside the European Economic Area (EEA). Safeguards include:
 
 - Standard Contractual Clauses (SCCs)  
-- Adequacy decisions  
-- Consent, where required  
+- Adequacy decisions or other legally recognized mechanisms  
+- Your consent, where required  
+
+---
+
+## Third-Party Services
+
+The Application utilizes third-party services with their own privacy policies:
+
+- [Google Play Services](https://www.google.com/policies/privacy/)  
+- [Google Analytics for Firebase](https://firebase.google.com/support/privacy)  
+- [Firebase Crashlytics](https://firebase.google.com/support/privacy/)  
 
 ---
 
 ## Opt-Out Rights
 
-- You can stop further collection by uninstalling the Application.  
-- To request deletion of data already collected, contact: **googolapps.support@gmail.com**
+You can stop further collection of information from your mobile device by uninstalling the Application.  
+Uninstalling will stop the Application from collecting data, but it does not automatically delete information already transmitted to third parties.  
+
+For deletion or management of data collected by third-party services, please refer to their respective privacy policies listed above.
 
 ---
 
 ## Data Retention Policy
 
-- **User Provided Data:** Retained for duration of use + 12 months  
-- **Automatically Collected Data:** Retained up to 24 months  
-- **Aggregated/Anonymized Data:** Retained indefinitely  
-- **Legal Compliance Data:** Retained as required by law  
+The Service Provider retains personal data based on its necessity for the stated purposes:
+
+- **User Provided Data**: Retained for the duration of your use plus 12 months, unless longer retention is required by law  
+- **Automatically Collected Data**: Retained for up to 24 months, unless longer retention is required for legal compliance  
+- **Aggregated/Anonymized Data**: Retained indefinitely  
+- **Legal Compliance Data**: Retained as long as required by applicable law  
 
 ---
 
 ## Children
 
-- Not intended for children under 13 (or higher age as required by law).  
-- No data knowingly collected from children.  
-- If a child provides personal data, it will be deleted immediately.  
-- Parents/guardians may contact **googolapps.support@gmail.com** for action.
+The Application is not intended for children under 13 years of age (or higher age as required by law).  
+If personal information from a child is discovered, it will be deleted immediately.  
+Parents/guardians may contact: **googolapps.support@gmail.com**
 
 ---
 
 ## Security
 
-The Service Provider implements physical, electronic, and procedural safeguards to protect information processed and maintained.
+The Service Provider safeguards confidentiality with physical, electronic, and procedural measures.
 
 ---
 
 ## Data Breach Notification
 
-If a breach occurs affecting your personal data, you will be notified in accordance with applicable law.
+In case of a data breach, the Service Provider will notify you in accordance with applicable legal requirements.
 
 ---
 
 ## Changes
 
-- The Privacy Policy may be updated periodically.  
-- Material changes will be posted with an effective date.  
-- Previous versions are available upon request.  
-
-**Effective Date:** 2026‑07‑25
+This Privacy Policy may be updated from time to time. Material changes will be posted with an effective date.  
+Effective date: **2026-07-25**
 
 ---
 
 ## Your Consent
 
-- Consent is provided by opting in to relevant features.  
-- You may withdraw consent at any time without affecting prior processing.  
+Where processing is based on consent, you provide it by opting in. You may withdraw consent at any time.
 
 ---
 
 ## Contact Us
 
-For questions regarding privacy or practices, contact: **googolapps.support@gmail.com**
+If you have questions regarding privacy or practices, contact: **googolapps.support@gmail.com**
 
 ---
 
